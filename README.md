@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning *Cloud computing,Ethical hacking*
 
-- 💬 Skills: *HTML,CSS,JAVASCRIPT,PYTHON,JAVA,MONGODB,MYSQL..*
+- 💬 Skills: <i>HTML,CSS,JAVASCRIPT,PYTHON,JAVA,MONGODB,MYSQL..</i>
 
 - 📫 How to reach me *bhuvana251904@gmail.com*
 
