@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning *Cloud computing,Ethical hacking*
 
-- 💬 <h1>Techinal Skills:</h1> <b>HTML,CSS,JAVASCRIPT,PYTHON,JAVA,MONGODB,MYSQL,ASP.Net,CANVA</b>
+- <h1> 💬 Techinal Skills:</h1> <b>HTML,CSS,JAVASCRIPT,PYTHON,JAVA,MONGODB,MYSQL,ASP.Net,CANVA</b>
 
-- ❤ <h3>INTERAPERSONAL SKILLS:</h3><ol>Communication skills,Self confidence,Team work,Adaptability,Leadership</ol>
+- <h3>❤ INTERAPERSONAL SKILLS:</h3><b>Communication skills,Self confidence,Team work,Adaptability,Leadership</b>
 
 - 📫 How to reach me *bhuvana251904@gmail.com*
 
