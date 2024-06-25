@@ -2,11 +2,13 @@
 <h1 align="center">Hi 👋, I'm Bhuvi</h1>
 <h3 align="center">🚀 Aspiring FULL-STACK</h3>
 
-- 🎓 I’m currently purusing SDNB Vaishhnav College*
+- 🎓 I’m currently purusing in SDNB Vaishhnav College*
 
 - 🌱 I’m currently learning *Cloud computing,Ethical hacking*
 
-- 💬 Skills: <b>HTML,CSS,JAVASCRIPT,PYTHON,JAVA,MONGODB,MYSQL..</b>
+- 💬 <h1>Techinal Skills:</h1> <b>HTML,CSS,JAVASCRIPT,PYTHON,JAVA,MONGODB,MYSQL,ASP.Net,CANVA</b>
+
+- ❤ <h3>INTERAPERSONAL SKILLS:</h3><ol>Communication skills,Self confidence,Team work,Adaptability,Leadership</ol>
 
 - 📫 How to reach me *bhuvana251904@gmail.com*
 
