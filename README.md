@@ -1,5 +1,4 @@
 # Bhuvi
-<body background color="pink">
 <h1 align="center">Hi 👋, I'm Bhuvi</h1>
 <h3 align="center">🚀 Aspiring FULL-STACK</h3>
 
