@@ -1,4 +1,5 @@
 # Bhuvi
+<body background color="pink">
 <h1 align="center">Hi 👋, I'm Bhuvi</h1>
 <h3 align="center">🚀 Aspiring FULL-STACK</h3>
 
@@ -6,9 +7,9 @@
 
 - 🌱 I’m currently learning *Cloud computing,Ethical hacking*
 
-- <h6><u>💬 Techinal Skills:</u></h6> <b>HTML,CSS,JAVASCRIPT,PYTHON,JAVA,MONGODB,MYSQL,ASP.Net,CANVA</b>
+- <h6>💬 TECHNICAL SKILLS:</h6> <b>HTML,CSS,JAVASCRIPT,PYTHON,JAVA,MONGODB,MYSQL,ASP.Net,CANVA</b>
 
-- <h6><u>❤ INTERAPERSONAL SKILLS:</u></h6><b>Communication skills,Self confidence,Team work,Adaptability,Leadership</b>
+- <h6>❤ INTERAPERSONAL SKILLS:</h6><b>Communication skills,Self confidence,Team work,Adaptability,Leadership</b>
 
 - 📫 How to reach me *bhuvana251904@gmail.com*
 
