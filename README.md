@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Bhuvi</h1>
 <h3 align="center">🚀 Aspiring FULL-STACK</h3>
 
-- 🎓 I’m currently purusing in SDNB Vaishhnav College*
+- 🎓 I’m currently pursing in SDNB Vaishnav College*
 
 - 🌱 I’m currently learning *Cloud computing,Ethical hacking*
 
