@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning *Cloud computing,Ethical hacking*
 
-- <h6>💬 TECHNICAL SKILLS:</h6> <b>HTML,CSS,JAVASCRIPT,PYTHON,JAVA,MONGODB,MYSQL,ASP.Net,CANVA</b>
+- <h6>💬 TECHNICAL SKILLS:</h6> <b>HTML,CSS,JAVASCRIPT,PYTHON,JAVA,MYSQL,CANVA</b>
 
 - <h6>❤ INTERAPERSONAL SKILLS:</h6><b>Communication skills,Self confidence,Team work,Adaptability,Leadership</b>
 
